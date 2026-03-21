@@ -1318,6 +1318,18 @@
     "tags": []
   },
   {
+    "productId": "lavi",
+    "type": "themes",
+    "displayName": "Lavi",
+    "repoUrl": "https://github.com/b0o/lavi/tree/main/contrib/opencode",
+    "tagline": "A soft and sweet colorscheme for Opencode and 15+ other apps",
+    "description": "A soft, sweet dark theme for Opencode with rich purple tones and carefully tuned syntax and diff colors. Part of the Lavi colorscheme family, which also provides matching themes for Neovim, Alacritty, Ghostty, Kitty, Wezterm, Zellij, and other tools, with Nix flake and home-manager support.",
+    "scope": [
+      "global"
+    ],
+    "tags": []
+  },
+  {
     "productId": "moonlight",
     "type": "themes",
     "displayName": "Moonlight",
